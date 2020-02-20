@@ -13,7 +13,7 @@
 
 * Website: https://nantes.zenika.com/
 * Github: [@HarryPommier](https://github.com/HarryPommier)
-* LinkedIn: [@Harry POMMIER, PhD](https://linkedin.com/in/Harry POMMIER, PhD)
+* LinkedIn: [@Harry POMMIER, PhD](https://www.linkedin.com/in/harry-pommier-phd-a3911145/)
 
 👤 **Jérémy Lejeune**
 
