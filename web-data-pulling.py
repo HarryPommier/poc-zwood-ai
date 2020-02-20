@@ -9,7 +9,8 @@ species = {"src": [], "label_en": [], "label_latin": []}
 url = "https://www.wood-database.com/wood-finder/?fwp_paged="
 
 #woodfinder 37 pages
-for k in range(2):
+
+for k in range(37):
     print("Pulling page {}...".format(k))
     response = urllib.request.urlopen(url+str(k))
     html = response.read()

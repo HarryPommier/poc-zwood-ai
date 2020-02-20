@@ -7,6 +7,12 @@
 
 > This is a POC on wood species recognition using ML
 
+## Usage
+Install python libraries for pulling web data
+```bash
+pip install -t requirements.txt
+```
+
 ## Author
 
 👤 **Harry Pommier**
